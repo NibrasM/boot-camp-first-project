@@ -1,3 +1,5 @@
 My name is Nibras Misk.
 I'm 25 years old.
-My 
+I enjoy swimming and walking.
+I have a Bachlore degree in Computer Scince, and worked for two years as a teaching assistance for programming labs in the same university, the labs I've teached C, Java, Linux, Data Structures.
+I joined this bootcamp to get more experience in programming and learn the things that I don't learn during study journy in university, and to be prepared well to get in the labor market.
